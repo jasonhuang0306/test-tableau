@@ -1,0 +1,12 @@
+html,
+body {
+  font-family: "Benton Sans", helvetica, arial, sans-serif;
+  margin: 0;
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
