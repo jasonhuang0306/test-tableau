@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?> 
+  <manifest manifest-version="0.1" xmlns="http://www.tableau.com/xml/extension_manifest">
+    <dashboard-extension id="com.KPQMv2.polar" extension-version="1.0.0">
+      <default-locale>en_US</default-locale>
+      <name resource-id="name"/>
+      <description>Chartjs Polar Area Test</description>
+      <author name="Jason Y Huang" email="jason.y.huang@kp.org" organization="Kaiser Permanente" website="https://www.kp.org"/>
+      <min-api-version>1.0</min-api-version>
+      <source-location>
+        <url>https://jasonhuang0306-test-tableau.glitch.me/polar-tableau/index.html</url> 
+      </source-location>
+      <icon></icon>
+    </dashboard-extension>
+    <resources>
+      <resource id="name">
+        <text locale="en_US">Chartjs Polar Area Test</text>
+      </resource>
+    </resources>
+  </manifest>
