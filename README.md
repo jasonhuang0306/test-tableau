@@ -8,3 +8,10 @@ https://public.tableau.com/views/COVIDtrafficinIrelandrepoint/MobilityDashboard
       
 Use Glitch.com for hosting the Web Server for this page:
 https://jasonhuang0306-test-tableau.glitch.me/tableau-api-v0.html
+
+Local Github directory:
+C:\Github\test-tableau
+
+Local TableauAPI directory:
+C:\Users\Public\Website - Tableau Javascript API\TableauAPI\
+
