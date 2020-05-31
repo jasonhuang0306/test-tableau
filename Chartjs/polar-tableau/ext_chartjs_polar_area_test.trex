@@ -7,7 +7,7 @@
       <author name="Jason Y Huang" email="jason.y.huang@kp.org" organization="Kaiser Permanente" website="https://www.kp.org"/>
       <min-api-version>1.0</min-api-version>
       <source-location>
-        <url>https://jasonhuang0306-test-tableau.glitch.me/polar-tableau/index.html</url> 
+        <url>https://jasonhuang0306-test-tableau.glitch.me/Chartjs/polar-tableau/index.html</url> 
       </source-location>
       <icon></icon>
     </dashboard-extension>
